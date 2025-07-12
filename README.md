@@ -45,12 +45,5 @@ A mini web application that allows users to **exchange skills** with others in a
 
 > You can customize the tech stack to suit your needs.
 
----
 
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/skill-swap-platform.git
-cd skill-swap-platform
+## 🚀 Video Link : https://www.awesomescreenshot.com/video/41961363?key=3a0ce2e0a45dad7d83bd3916e9f452f1
