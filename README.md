@@ -46,4 +46,11 @@ A mini web application that allows users to **exchange skills** with others in a
 > You can customize the tech stack to suit your needs.
 
 
-## 🚀 Video Link : https://www.awesomescreenshot.com/video/41961363?key=3a0ce2e0a45dad7d83bd3916e9f452f1
+### 🚀 Video Link :
+https://www.awesomescreenshot.com/video/41961363?key=3a0ce2e0a45dad7d83bd3916e9f452f1
+
+## Team Members :
+
+1. Parikshitsinh Vaghela - vaghelaparikshitsinh257@gmail.com - +91 8469133412
+2. Malav Parekh - malavparekh97@gmail.com - +91 7573051360
+3. Krishnapalsinh Sisodiya - krishnpalsinhs@gmail.com - +91 6354258964
