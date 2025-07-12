@@ -41,7 +41,7 @@ A mini web application that allows users to **exchange skills** with others in a
 
 | Frontend        | Backend         | Database       | Others          |
 |----------------|----------------|----------------|-----------------|
-| React / Vite   | Node.js / Express | MongoDB / PostgreSQL | Firebase Auth (optional), Bootstrap or Tailwind |
+| React / Vite   | Node.js / Express | MongoDB     | Firebase Auth (optional), Bootstrap or Tailwind |
 
 > You can customize the tech stack to suit your needs.
 
